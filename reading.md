@@ -13,3 +13,7 @@
 * [New AI safety research agenda from Google Brain](https://vkrakovna.wordpress.com/2016/06/22/new-ai-safety-research-agenda-from-google-brain/)
 * [Future of Life Institute’s recent milestones in AI safety](https://vkrakovna.wordpress.com/2015/02/16/flis-recent-milestones-in-ai-safety/)
 * [AI Safety Highlights from NIPS 2016](https://vkrakovna.wordpress.com/2016/12/28/ai-safety-highlights-from-nips-2016/)
+
+## Lectures
+
+* [Workshop on Reliable AI](http://wrai.org) 
