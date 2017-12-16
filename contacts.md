@@ -2,7 +2,7 @@
 
 ## Enthusiasts in AI safety
 
-* [Jan Romportl](https://www.linkedin.com/in/janromportl/): AI safety meetup
+* [Jan Romportl](https://www.linkedin.com/in/janromportl/): [AI safety meetup](https://www.meetup.com/AI-Safety-Meetup)
 * [Marek Behún](http://blackhole.sk/~kabel/): http://ktiml.mff.cuni.cz/~bartak/ui_seminar/talks/2017ZS/MarekBehun_Threats_of_AI.pdf
 
 ## Academics
