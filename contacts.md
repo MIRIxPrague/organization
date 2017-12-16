@@ -10,7 +10,7 @@
 * [Roman Barták](https://www.linkedin.com/in/roman-barták-7337897/)
 * [Michal Pěchouček](https://www.linkedin.com/in/pechoucek/)
 
-## Enterpreneurs
+## Contacts From Industry
 
 * [Petr Baudiš](https://www.linkedin.com/in/petr-baudis-906a213/)
 * [Victoria Krakovna](https://www.linkedin.com/in/vkrakovna/): https://sites.google.com/site/victoriakrakovna/
