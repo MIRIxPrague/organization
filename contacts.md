@@ -16,3 +16,4 @@
 * [Petr Baudiš](https://www.linkedin.com/in/petr-baudis-906a213/)
 * [Victoria Krakovna](https://www.linkedin.com/in/vkrakovna/): https://sites.google.com/site/victoriakrakovna/
 * [Marek Rosa](https://www.linkedin.com/in/marekrosa1/)
+* [Olga Afanasjeva](https://www.linkedin.com/in/afanasjevaolga/)
