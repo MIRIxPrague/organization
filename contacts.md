@@ -18,3 +18,8 @@
 * [Victoria Krakovna](https://www.linkedin.com/in/vkrakovna/): https://sites.google.com/site/victoriakrakovna/
 * [Marek Rosa](https://www.linkedin.com/in/marekrosa1/)
 * [Olga Afanasjeva](https://www.linkedin.com/in/afanasjevaolga/)
+
+## Organizations, Groups and Meetups
+
+* [AI Safety Meetup](https://www.meetup.com/AI-Safety-Meetup/)
+* [Effective Altruism CZ](http://efektivni-altruismus.cz/o-ea/)
