@@ -5,6 +5,7 @@
 * [Jan Romportl](https://www.linkedin.com/in/janromportl/): [AI safety meetup](https://www.meetup.com/AI-Safety-Meetup)
 * [Marek Behún](http://blackhole.sk/~kabel/): http://ktiml.mff.cuni.cz/~bartak/ui_seminar/talks/2017ZS/MarekBehun_Threats_of_AI.pdf
 * [Jakub Svoboda](https://www.linkedin.com/in/jakub-svoboda-882335154/)
+* [Vojtěch Kovařík](https://www.linkedin.com/in/vojta-kovarik-12b51a154/)
 
 ## Academics
 
