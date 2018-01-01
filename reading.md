@@ -24,3 +24,4 @@
 
 * [AI Impacts](https://aiimpacts.org)
 * [Intelligent Agent Foundations Forum](https://agentfoundations.org)
+* [AI Alignment: Paul Christiano's Medium](https://ai-alignment.com)
