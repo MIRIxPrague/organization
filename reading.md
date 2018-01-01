@@ -4,6 +4,7 @@
 
 * [Concrete Problems in AI Safety](https://arxiv.org/abs/1606.06565)
 * [AI Safety Gridworlds](https://arxiv.org/pdf/1711.09883.pdf)
+* [Reinforcement Learning with a Corrupted Reward Channel](https://arxiv.org/pdf/1705.08417.pdf)
 
 ## Blogposts
 
