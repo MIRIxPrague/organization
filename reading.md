@@ -7,6 +7,7 @@
 
 ## Blogposts
 
+* [Research into risks from artificial intelligence](https://80000hours.org/career-reviews/artificial-intelligence-risk-research)
 * [To contribute to AI safety, consider doing AI research](https://vkrakovna.wordpress.com/2016/01/16/to-contribute-to-ai-safety-consider-doing-ai-research/)
 * [Introductory resources on AI safety research](https://vkrakovna.wordpress.com/2016/02/28/introductory-resources-on-ai-safety-research/)
 * [Portfolio approach to AI safety research](https://vkrakovna.wordpress.com/2017/08/16/portfolio-approach-to-ai-safety-research/)
