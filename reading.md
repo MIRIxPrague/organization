@@ -19,3 +19,8 @@
 ## Lectures
 
 * [Workshop on Reliable AI](http://wrai.org) 
+
+## Websites to follow
+
+* [AI Impacts](https://aiimpacts.org)
+* [Intelligent Agent Foundations Forum](https://agentfoundations.org)
