@@ -9,8 +9,9 @@
 
 ## Academics
 
-* [Roman Barták](https://www.linkedin.com/in/roman-barták-7337897/)
+* [Jan Kulveit](https://www.linkedin.com/in/kulveit/)
 * [Michal Pěchouček](https://www.linkedin.com/in/pechoucek/)
+* [Roman Barták](https://www.linkedin.com/in/roman-barták-7337897/)
 
 ## Contacts From Industry
 
